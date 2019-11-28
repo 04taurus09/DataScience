@@ -1,2 +1,2 @@
 # DataScience
-This branch contains all the guided projects that have been done from dataquest.io website.
+This branch contains all the self developed DataScience projects.
